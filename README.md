@@ -63,4 +63,60 @@ A Streamlit web application was developed to enable real-time phishing detection
 ---
 
 ## Project Architecture
+Raw Email Dataset
+      |
+      v
+Text Preprocessing
+(Tokenization, Stopwords, Cleaning)
+      |
+      v
+Feature Engineering
+(TF-IDF | Word Embeddings)
+      |
+      v
+Model Training
+(Logistic Regression | XGBoost | LSTM | BERT)
+      |
+      v
+Model Evaluation
+(Accuracy, Precision, Recall, F1, ROC-AUC)
+      |
+      v
+Best Model Selection
+      |
+      v
+Streamlit Web Application
+(Real-time Email Classification)
+
+
+
+---
+
+## 5. Conclusion
+This project demonstrates the effectiveness of NLP-based deep learning models for phishing email detection. Transformer models such as BERT outperform traditional classifiers and offer strong potential for real-world cybersecurity applications.
+
+---
+
+## Future Enhancements
+- Multilingual phishing email detection  
+- Integration with live email systems  
+- Model optimization for faster inference  
+
+---
+
+
+---
+
+## Why This Project Matters
+- Solves a real-world cybersecurity problem  
+- Demonstrates NLP, Machine Learning, and Deep Learning expertise  
+- Covers full project lifecycle from data processing to deployment  
+
+---
+
+## Author
+**Kaustubh Narayankar**  
+Data Science Graduate  
+
+
 
