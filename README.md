@@ -63,9 +63,11 @@ A Streamlit web application was developed to enable real-time phishing detection
 ---
 
 Phishy Email Detected :  
+![image](Output/6.jpeg)
 
 
 Legitimate Email Detected : 
+![image](Output/7.jpeg)
 
 
 ## Project Architecture
