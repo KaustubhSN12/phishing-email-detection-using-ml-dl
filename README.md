@@ -24,7 +24,7 @@ The increasing volume and complexity of phishing attacks make manual detection i
 ## 2. Methodology
 
 ### 2.1 Dataset Collection
-A labeled dataset consisting of phishing and legitimate email text was used. Data augmentation techniques were applied to improve generalization.
+A ununlabeled dataset consisting of phishing and legitimate email text was used. Data augmentation techniques were applied to improve generalization.
 
 ### 2.2 Data Preprocessing
 Text preprocessing included normalization, tokenization, stopword removal, and text cleaning to prepare data for modeling.
