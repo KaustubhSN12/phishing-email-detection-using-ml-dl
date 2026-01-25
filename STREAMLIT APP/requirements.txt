@@ -8,17 +8,12 @@ nltk
 regex
 joblib
 tqdm
-
 xgboost
-
 tensorflow
 keras
-
 torch
 torchvision
 torchaudio
-
 transformers
 sentencepiece
-
 datasets
