@@ -11,6 +11,8 @@ End-to-end phishing email detection system using machine learning and deep learn
 
 # Phishing Email Detection using Machine Learning and Deep Learning
 
+# Explore Phishy mail detection system here : [Link](https://email-phishing-ksn1.streamlit.app/)
+
 ## Abstract
 Phishing emails are a major cybersecurity threat, exploiting users to obtain sensitive information. This project presents an automated phishing email detection system using Natural Language Processing, Machine Learning, and Deep Learning techniques. Multiple models including Logistic Regression, XGBoost, LSTM, and BERT were implemented and evaluated. Experimental results show that transformer-based models outperform traditional approaches. A real-time phishing detection system was deployed using Streamlit.
 
