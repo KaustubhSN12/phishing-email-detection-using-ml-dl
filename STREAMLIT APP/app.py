@@ -64,8 +64,8 @@ else:
 # ------------------------------
 st.header("🧠 Model Loading")
 
-model_path = "/content/drive/MyDrive/SEM_3_Project/logistic_regression_model.pkl"
-tfidf_path = "/content/drive/MyDrive/SEM_3_Project/tfidf_vectorizer.pkl"
+model_path = "https://github.com/KaustubhSN12/phishing-email-detection-using-ml-dl/blob/main/Models/logistic_regression_model.pkl"
+tfidf_path = "https://github.com/KaustubhSN12/phishing-email-detection-using-ml-dl/blob/main/Models/tfidf_vectorizer.pkl"
 #final_model = "/content/drive/MyDrive/SEM_3_Project/final_model.pkl"
 
 
